@@ -1,0 +1,15 @@
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.deps.json
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.runtimeconfig.json
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.runtimeconfig.dev.json
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.dll
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\bin\Debug\net5.0\Talabat.DAL.pdb
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.AssemblyInfo.cs
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.dll
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\refint\Talabat.DAL.dll
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.pdb
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\Talabat.DAL.genruntimeconfig.cache
+D:\Back end\API\Session 01\TalabatTR.API\Talabat.DAL\obj\Debug\net5.0\ref\Talabat.DAL.dll
